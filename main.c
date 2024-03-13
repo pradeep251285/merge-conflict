@@ -1,4 +1,7 @@
 pseudo code
+
+
+
 {
 Initial Security()
 {
@@ -6,9 +9,12 @@ Initial Security()
 }
 Initial Function()
 {
-  		feature1()
-  		{
-		  //sampl code feature1
-  		}
-}  
+  feature1()
+  {
+		 //sampl code feature1
+  } feature2() 
+{           
+	        //sample  code feature2
 } 
+}
+
